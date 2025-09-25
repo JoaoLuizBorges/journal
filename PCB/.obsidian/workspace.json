@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "731c41be9fe0657c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbe96299635877dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd84f71feeea47b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-09-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fb456890da231db",
+    "type": "split",
+    "children": [
+      {
+        "id": "c79bd41bf91ceb2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8783ffb8811f9cd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f00e05f8a25633d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bc92060656fbf6c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "93a340818f27bb40",
+    "type": "split",
+    "children": [
+      {
+        "id": "81aeae8e368ea52d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11cceee760a07d15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-09-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-09-24"
+            }
+          },
+          {
+            "id": "b0054ebd0323a20f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-09-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-09-24"
+            }
+          },
+          {
+            "id": "506a95dffff7394d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "79f26f9bf102b479",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-09-24.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-09-24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bd84f71feeea47b9",
+  "lastOpenFiles": [
+    "images/2025-09-24/3D PCI 1.PNG",
+    "2025-09-24.md",
+    "images.md",
+    "images/2025-09-24/3D PCI 2.PNG",
+    "images/2025-09-24/diagrama PCI.PNG",
+    "images/2025-09-24/diagrama.PNG",
+    "images/2025-09-24",
+    "images/Nova pasta",
+    "images/diagrama.PNG",
+    "images",
+    "Nova pasta",
+    "datasheet/2025-09-24/cr3032.pdf",
+    "().md",
+    "datasheet/2025-09-24/Não confirmado 318090.crdownload",
+    "datasheet/2025-09-24",
+    "datasheet/Nova pasta",
+    "datasheet",
+    "Untitled.md",
+    "create a link.md"
+  ]
+}
